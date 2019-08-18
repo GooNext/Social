@@ -1,4 +1,4 @@
-#**_Very badly design, because i'm developer, not designer :)_**
+#*Very badly design, because i'm developer, not designer :)*
 ##_All information saved in localstorage_ 
 ###_Functional:_
 
