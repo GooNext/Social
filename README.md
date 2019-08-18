@@ -1,5 +1,7 @@
-#*Very badly design, because i'm developer, not designer :)*
+#Very badly design, because i'm developer, not designer :)
+
 ##_All information saved in localstorage_ 
+
 ###_Functional:_
 
 #### - You can change profile photo 
